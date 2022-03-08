@@ -28,8 +28,8 @@ public class Driver {
 					//Testing Methods//
 		///////////////////////////////////////////
 		
-		//MySorter.quickSort (data, 0, numToSort-1);
-		//MySorter.mergeSort(data, 0, numToSort);
+		MySorter.quickSort (data, 0, numToSort-1);
+		MySorter.mergeSort(data, 0, numToSort);
 		MySorter.insertionSort(data, numToSort);
 		
 		long end = System.currentTimeMillis(); 		// end time
