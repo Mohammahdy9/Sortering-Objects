@@ -2,7 +2,7 @@
 /** The Driver class includes a main() method which calls the sorting methods and determines
  * how much time it takes to sort
  * 
- * @author 	Sue Fitzgerald
+ * @author 	Sue Fitzgerald and Mohamed Mahdy
  * 			10/13/20
  *
  */
